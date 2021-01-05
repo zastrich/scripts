@@ -1,17 +1,17 @@
 {
-  "name": "release",
+  "name": "scripts",
   "version": "1.0.0",
-  "description": "Use npx width version to create release tag based",
+  "description": "Use npx width version to run scripts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "release": "./index.js"
+    "scripts": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zastrich/release.git"
+    "url": "git+https://github.com/zastrich/scripts.git"
   },
   "author": "Zastrich",
   "license": "ISC"
